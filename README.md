@@ -14,7 +14,7 @@
 
 ## 📋 Resumen Ejecutivo
 
-Este repositorio contiene la documentación solicitada en la evaluación del curso "Herramientas de Arcgis Pro en Gestión y Comunicación Ambiental con ArgGIS Pro y Tecnologías Geoespaciales" de INACAP, además de scripts de automatización para una evaluación geoespacial integrada realizada en la Región Metropolitana de Santiago, Chile. El proyecto demuestra la integración de tres metodologías clave en Sistemas de Información Geográfica (SIG):
+Este repositorio contiene la documentación solicitada en la evaluación del curso **"Herramientas de Arcgis Pro en Gestión y Comunicación Ambiental con ArgGIS Pro y Tecnologías Geoespaciales"** de **INACAP**, por otro lado incorpopra scripts de automatización que permite una evaluación geoespacial mas integrada de la Región Metropolitana de Santiago, Chile. El proyecto muestra la integración de tres metodologías clave en Sistemas de Información Geográfica (SIG):
 
 1. **Captura de datos en terreno** mediante formularios inteligentes en ArcGIS Survey123
 2. **Análisis multispectral** usando imágenes Sentinel-2 con cálculo de NDVI
