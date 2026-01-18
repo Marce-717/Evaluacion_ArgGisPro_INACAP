@@ -14,7 +14,11 @@
 
 ## 📋 Resumen Ejecutivo
 
-Este repositorio presenta una **evaluación geoespacial integrada** de espacios públicos urbanos y domiciliarios en la Región Metropolitana de Santiago y algunas regiones de Chile, Chile. El proyecto integra tres metodologías profesionales de Sistemas de Información Geográfica (SIG):
+Este repositorio contiene la documentación solicitada en la evaluación del curso "herramientas de Arcgis Pro en el uso de Agricultura Digital" de INACAP, además de scripts de automatización para una evaluación geoespacial integrada realizada en la Región Metropolitana de Santiago, Chile. El proyecto demuestra la integración de tres metodologías clave en Sistemas de Información Geográfica (SIG):
+
+1. **Captura de datos en terreno** mediante formularios inteligentes en ArcGIS Survey123
+2. **Análisis multispectral** usando imágenes Sentinel-2 con cálculo de NDVI
+3. **Producción de cartografía profesional** en ArcGIS Pro Desktop con elementos cartográficos estandarizados
 
 | Componente | Metodología | Resultado |
 |-----------|-------------|-----------|
