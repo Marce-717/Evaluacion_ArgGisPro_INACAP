@@ -22,7 +22,7 @@ Este repositorio contiene la documentación solicitada en la evaluación del cur
 
 | Componente | Metodología | Resultado |
 |-----------|-------------|-----------|
-| **Captura de datos** | ArcGIS Survey123 | 6 puntos georreferenciados |
+| **Captura de datos** | ArcGIS Survey123 | 6 puntos georreferenciados | Copernicus.eu
 | **Análisis espectral** | NDVI Sentinel-2 | Clasificación de vegetación |
 | **Cartografía** | ArcGIS Pro Desktop | Mapa profesional A3 (300 DPI) |
 
@@ -275,8 +275,8 @@ Clasificación:
 └─ <0.2: Área urbana, agua, o sin vegetación
 ```
 
-**Fuente de datos:** Sentinel-2 MSI (European Space Agency)
-- Resolución: 10 metros (bandas B04, B08)
+**Fuente de datos:** Sentinel-2 MSI (Copernicus.eu)
+- Resolución: 30 metros (bandas B04, B08)
 - Fecha: Enero 2026
 - Cobertura: Región Metropolitana de Santiago
 
@@ -302,10 +302,6 @@ Elementos cartográficos:
 ├─ Gráficos estadísticos integrados
 └─ Información de autoría y fuentes
 
-Estándares cumplidos:
-✓ ISO 19115 (Metadatos geográficos)
-✓ OGC Web Services Standards
-✓ Normas internacionales de cartografía
 ```
 
 ### Fase 4: Validación Estadística
