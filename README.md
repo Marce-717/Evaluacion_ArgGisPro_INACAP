@@ -11,7 +11,7 @@
 [![Status](https://img.shields.io/badge/Status-Completado-brightgreen)](README.md)
 
 ---
-
+[foto mapa](Mapa_Espacios_Publicos.pdf)
 ## 📋 Resumen Ejecutivo
 
 Este repositorio contiene la documentación solicitada en la evaluación del curso **"Herramientas de Arcgis Pro en Gestión y Comunicación Ambiental con ArgGIS Pro y Tecnologías Geoespaciales"** de **INACAP**, por otro lado incorpopra scripts de automatización que permite una evaluación geoespacial mas integrada de la Región Metropolitana de Santiago, Chile. El proyecto muestra la integración de tres metodologías clave en Sistemas de Información Geográfica (SIG):
